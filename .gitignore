@@ -1,0 +1,6 @@
+.venv
+.venv_tf
+UrbanSound8K
+sezimband_2_2_results.zip
+__pycache__/
+*.pyc

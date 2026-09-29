@@ -1,0 +1,7 @@
+source "C:/Users/dimat/.platformio/packages/framework-espidf/components/app_update/Kconfig.projbuild"
+source "C:/Users/dimat/.platformio/packages/framework-espidf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/dimat/.platformio/packages/framework-espidf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/dimat/.platformio/packages/framework-espidf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/dimat/.platformio/packages/framework-espidf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/dimat/.platformio/packages/framework-espidf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/dimat/OneDrive/Desktop/sezimband_22/esp32_bench/managed_components/espressif__esp-nn/Kconfig.projbuild"

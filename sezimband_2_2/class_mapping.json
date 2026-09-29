@@ -1,0 +1,28 @@
+{
+  "classes": [
+    "air_conditioner",
+    "car_horn",
+    "children_playing",
+    "dog_bark",
+    "drilling",
+    "engine_idling",
+    "gun_shot",
+    "jackhammer",
+    "siren",
+    "street_music"
+  ],
+  "alert_classes": [
+    "car_horn",
+    "siren"
+  ],
+  "non_alert_classes": [
+    "air_conditioner",
+    "children_playing",
+    "dog_bark",
+    "drilling",
+    "engine_idling",
+    "gun_shot",
+    "jackhammer",
+    "street_music"
+  ]
+}

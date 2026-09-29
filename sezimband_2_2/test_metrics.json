@@ -1,0 +1,19 @@
+{
+  "selected_model": "TinyCNN",
+  "test_fold": [
+    10
+  ],
+  "test_examples": 837,
+  "accuracy": 0.6248506571087217,
+  "macro_f1": 0.6354494438236993,
+  "alert_precision": 0.6190476190476191,
+  "alert_recall": 0.5603448275862069,
+  "non_target_false_positive_fraction": 0.05547850208044383,
+  "alert_confusion": {
+    "tn": 681,
+    "fp": 40,
+    "fn": 51,
+    "tp": 65
+  },
+  "scope": "single UrbanSound8K holdout; no prototype-microphone test"
+}

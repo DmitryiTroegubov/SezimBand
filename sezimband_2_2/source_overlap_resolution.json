@@ -1,0 +1,10 @@
+{
+  "original_excerpt_count": 8732,
+  "retained_excerpt_count": 8653,
+  "excluded_excerpt_count": 79,
+  "excluded_fsIDs": [
+    180937
+  ],
+  "rule": "For fsID crossing partitions, retain only the highest-priority partition: test > validation > train.",
+  "details_csv": "excluded_source_overlap.csv"
+}

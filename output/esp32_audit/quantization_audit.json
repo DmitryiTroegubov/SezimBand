@@ -1,0 +1,92 @@
+{
+  "scope": "computer test, UrbanSound8K fold 10; device timings not included",
+  "tensorflow_version": "2.21.0",
+  "calibration_examples": 200,
+  "calibration_split": "train only, folds 1-8",
+  "test_examples": 837,
+  "full_test": true,
+  "keras_checkpoint_bytes": 114533,
+  "float32": {
+    "size_bytes": 28700,
+    "sha256": "e249538178951b85fb85f2841b75d2fd9c62871acb53cdf4c9e561add0de3e54",
+    "input_type": "<class 'numpy.float32'>",
+    "output_type": "<class 'numpy.float32'>",
+    "input_shape": [
+      1,
+      40,
+      173,
+      1
+    ],
+    "output_shape": [
+      1,
+      10
+    ],
+    "input_quantization": [
+      0.0,
+      0
+    ],
+    "output_quantization": [
+      0.0,
+      0
+    ],
+    "operations": [
+      "CONV_2D",
+      "MAX_POOL_2D",
+      "CONV_2D",
+      "MAX_POOL_2D",
+      "CONV_2D",
+      "MEAN",
+      "FULLY_CONNECTED",
+      "SOFTMAX",
+      "DELEGATE"
+    ]
+  },
+  "int8": {
+    "size_bytes": 12328,
+    "sha256": "6814b6fc59f123919e95e3d9118e5428bc6470af583e228db657ea568d4f14fc",
+    "input_type": "<class 'numpy.int8'>",
+    "output_type": "<class 'numpy.int8'>",
+    "input_shape": [
+      1,
+      40,
+      173,
+      1
+    ],
+    "output_shape": [
+      1,
+      10
+    ],
+    "input_quantization": [
+      3.9073290824890137,
+      62
+    ],
+    "output_quantization": [
+      0.00390625,
+      -128
+    ],
+    "operations": [
+      "CONV_2D",
+      "MAX_POOL_2D",
+      "CONV_2D",
+      "MAX_POOL_2D",
+      "CONV_2D",
+      "MEAN",
+      "FULLY_CONNECTED",
+      "SOFTMAX",
+      "DELEGATE"
+    ]
+  },
+  "float32_scores": {
+    "accuracy": 0.6248506571087217,
+    "macro_f1": 0.6354494438236993,
+    "car_horn_recall": 0.7272727272727273,
+    "siren_recall": 0.4578313253012048
+  },
+  "int8_scores": {
+    "accuracy": 0.6009557945041816,
+    "macro_f1": 0.6072620221357978,
+    "car_horn_recall": 0.6363636363636364,
+    "siren_recall": 0.42168674698795183
+  },
+  "prediction_agreement": 0.929510155316607
+}

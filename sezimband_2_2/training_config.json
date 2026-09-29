@@ -1,0 +1,20 @@
+{
+  "framework": "TensorFlow/Keras",
+  "loss": "categorical_crossentropy",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "batch_size": 8,
+  "max_epochs": 15,
+  "patience": 8,
+  "seed": 42,
+  "augmentations": [],
+  "feature_standardization": "none",
+  "checkpoint_selection": "minimum validation loss",
+  "architecture_selection": "minimum validation loss; parameters break exact ties",
+  "selected_model": "TinyCNN",
+  "input_shape": [
+    40,
+    173,
+    1
+  ]
+}

@@ -1,0 +1,12 @@
+class_name,source,alert,original_recordings_fsID,excerpt_files,summed_excerpt_duration_s,unique_annotated_coverage_s,model_examples,fixed_window_count
+air_conditioner,UrbanSound8K,False,64,1000,3994.9279631519275,1234.428713,1000,not applicable
+car_horn,UrbanSound8K,True,125,429,1053.676945861678,444.9532859999997,429,not applicable
+children_playing,UrbanSound8K,False,158,1000,3962.0948078486354,2462.374524999999,1000,not applicable
+dog_bark,UrbanSound8K,False,337,1000,3148.280750637755,2170.2495940000003,1000,not applicable
+drilling,UrbanSound8K,False,119,1000,3546.294725127551,1553.2440359999996,1000,not applicable
+engine_idling,UrbanSound8K,False,97,1000,3935.952393424036,1072.492542,1000,not applicable
+gun_shot,UrbanSound8K,False,117,374,616.2394840561225,574.796493,374,not applicable
+jackhammer,UrbanSound8K,False,44,921,3294.731833404195,1349.4747219999992,921,not applicable
+siren,UrbanSound8K,True,74,929,3632.68170946712,794.2015859999999,929,not applicable
+street_music,UrbanSound8K,False,166,1000,4000.0,2599.0,1000,not applicable
+TOTAL,UrbanSound8K,mixed,1297,8653,31184.88061297902,14218.203667,8653,not applicable

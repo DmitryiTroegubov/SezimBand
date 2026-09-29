@@ -1,0 +1,3 @@
+model,parameters,raw_weight_bytes,keras_checkpoint_bytes,float32_tflite_bytes,estimated_conv_dense_MACs,best_epoch,epochs_run,validation_loss,validation_accuracy,validation_macro_f1,training_seconds,tflite_status,esp32_latency_ms,esp32_peak_ram_bytes,selected_by_validation_loss
+BaselineCNN,220490,881960,2695975,886560,95836224,3,11,1.1541529893875122,0.6139705777168274,0.6324713566417512,234.29889919998823,converted,not measured,not measured,False
+TinyCNN,6218,24872,114533,28700,3403472,11,15,0.839659571647644,0.7156862616539001,0.7292648254622003,64.25838509999448,converted,not measured,not measured,True

@@ -1,0 +1,11 @@
+,air_conditioner,car_horn,children_playing,dog_bark,drilling,engine_idling,gun_shot,jackhammer,siren,street_music
+air_conditioner,85,0,0,0,5,1,0,9,0,0
+car_horn,0,24,2,1,2,0,0,0,0,4
+children_playing,1,0,77,16,0,4,0,0,2,0
+dog_bark,0,1,23,59,10,0,1,1,1,4
+drilling,7,1,0,1,56,6,0,23,4,2
+engine_idling,28,0,2,0,0,31,1,0,27,4
+gun_shot,0,0,0,12,0,0,20,0,0,0
+jackhammer,2,0,0,0,23,2,0,69,0,0
+siren,0,3,33,9,0,0,0,0,38,0
+street_music,0,1,32,0,0,0,0,0,3,64

@@ -1,0 +1,11 @@
+class,role,original_clips
+air_conditioner,non_target,1000
+car_horn,alert,429
+children_playing,non_target,1000
+dog_bark,non_target,1000
+drilling,non_target,1000
+engine_idling,non_target,1000
+gun_shot,non_target,374
+jackhammer,non_target,1000
+siren,alert,929
+street_music,non_target,1000

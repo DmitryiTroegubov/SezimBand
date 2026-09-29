@@ -1,0 +1,11 @@
+class,test,train,validation
+air_conditioner,100,800,100
+car_horn,33,364,32
+children_playing,100,800,100
+dog_bark,100,800,100
+drilling,100,800,100
+engine_idling,93,818,89
+gun_shot,32,311,31
+jackhammer,96,743,82
+siren,83,764,82
+street_music,100,800,100

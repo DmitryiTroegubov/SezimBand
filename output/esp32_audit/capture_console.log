@@ -1,0 +1,307 @@
+SB_RUN,index=34,invoke_us=59649,internal_free=207635,psram_free=8386192
+SB_RUN,index=35,invoke_us=59642,internal_free=207635,psram_free=8386192
+SB_RUN,index=36,invoke_us=59679,internal_free=207635,psram_free=8386192
+SB_RUN,index=37,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=38,invoke_us=59652,internal_free=207635,psram_free=8386192
+SB_RUN,index=39,invoke_us=59670,internal_free=207635,psram_free=8386192
+SB_RUN,index=40,invoke_us=59649,internal_free=207635,psram_free=8386192
+SB_RUN,index=41,invoke_us=59644,internal_free=207635,psram_free=8386192
+SB_RUN,index=42,invoke_us=59686,internal_free=207635,psram_free=8386192
+SB_RUN,index=43,invoke_us=59656,internal_free=207635,psram_free=8386192
+SB_RUN,index=44,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=45,invoke_us=59660,internal_free=207635,psram_free=8386192
+SB_RUN,index=46,invoke_us=59638,internal_free=207635,psram_free=8386192
+SB_RUN,index=47,invoke_us=59632,internal_free=207635,psram_free=8386192
+SB_RUN,index=48,invoke_us=59689,internal_free=207635,psram_free=8386192
+SB_RUN,index=49,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=50,invoke_us=59650,internal_free=207635,psram_free=8386192
+SB_RUN,index=51,invoke_us=59668,internal_free=207635,psram_free=8386192
+SB_RUN,index=52,invoke_us=59647,internal_free=207635,psram_free=8386192
+SB_RUN,index=53,invoke_us=59644,internal_free=207635,psram_free=8386192
+SB_RUN,index=54,invoke_us=59677,internal_free=207635,psram_free=8386192
+SB_RUN,index=55,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=56,invoke_us=59650,internal_free=207635,psram_free=8386192
+SB_RUN,index=57,invoke_us=59671,internal_free=207635,psram_free=8386192
+SB_RUN,index=58,invoke_us=59647,internal_free=207635,psram_free=8386192
+SB_RUN,index=59,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=60,invoke_us=59677,internal_free=207635,psram_free=8386192
+SB_RUN,index=61,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=62,invoke_us=59650,internal_free=207635,psram_free=8386192
+SB_RUN,index=63,invoke_us=59669,internal_free=207635,psram_free=8386192
+SB_RUN,index=64,invoke_us=59645,internal_free=207635,psram_free=8386192
+SB_RUN,index=65,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=66,invoke_us=59675,internal_free=207635,psram_free=8386192
+SB_RUN,index=67,invoke_us=59637,internal_free=207635,psram_free=8386192
+SB_RUN,index=68,invoke_us=59648,internal_free=207635,psram_free=8386192
+SB_RUN,index=69,invoke_us=59669,internal_free=207635,psram_free=8386192
+SB_RUN,index=70,invoke_us=59645,internal_free=207635,psram_free=8386192
+SB_RUN,index=71,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=72,invoke_us=59676,internal_free=207635,psram_free=8386192
+SB_RUN,index=73,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=74,invoke_us=59649,internal_free=207635,psram_free=8386192
+E (10885) task_wdt: Task watchdog got triggered. The following tasks/users did not reset the watchdog in time:
+E (10885) task_wdt:  - IDLE0 (CPU 0)
+E (10885) task_wdt: Tasks currently running:
+E (10885) task_wdt: CPU 0: main
+E (10885) task_wdt: CPU 1: IDLE1
+E (10885) task_wdt: Print CPU 0 (current core) backtrace
+
+
+Backtrace: 0x420107DA:0x3FC91CA0 0x42010BEC:0x3FC91CC0 0x40376FC9:0x3FC91CF0 0x420162B3:0x3FC96F20 0x420153D6:0x3FC96F70 0x42006D52:0x3FC970A0 0x4200B8B6:0x3FC975F0 0x42003712:0x3FC97620 0x42002011:0x3FC97650 0x42011EE7:0x3FC97780 0x420208B6:0x3FC977B0
+
+SB_RUN,index=75,invoke_us=61634,internal_free=207635,psram_free=8386192
+SB_RUN,index=76,invoke_us=59694,internal_free=207635,psram_free=8386192
+SB_RUN,index=77,invoke_us=59642,internal_free=207635,psram_free=8386192
+SB_RUN,index=78,invoke_us=59692,internal_free=207635,psram_free=8386192
+SB_RUN,index=79,invoke_us=59637,internal_free=207635,psram_free=8386192
+SB_RUN,index=80,invoke_us=59649,internal_free=207635,psram_free=8386192
+SB_RUN,index=81,invoke_us=59668,internal_free=207635,psram_free=8386192
+SB_RUN,index=82,invoke_us=59645,internal_free=207635,psram_free=8386192
+SB_RUN,index=83,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=84,invoke_us=59668,internal_free=207635,psram_free=8386192
+SB_RUN,index=85,invoke_us=59633,internal_free=207635,psram_free=8386192
+SB_RUN,index=86,invoke_us=59643,internal_free=207635,psram_free=8386192
+SB_RUN,index=87,invoke_us=59660,internal_free=207635,psram_free=8386192
+SB_RUN,index=88,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=89,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=90,invoke_us=59675,internal_free=207635,psram_free=8386192
+SB_RUN,index=91,invoke_us=59636,internal_free=207635,psram_free=8386192
+SB_RUN,index=92,invoke_us=59649,internal_free=207635,psram_free=8386192
+SB_RUN,index=93,invoke_us=59669,internal_free=207635,psram_free=8386192
+SB_RUN,index=94,invoke_us=59646,internal_free=207635,psram_free=8386192
+SB_RUN,index=95,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=96,invoke_us=59676,internal_free=207635,psram_free=8386192
+SB_RUN,index=97,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=98,invoke_us=59649,internal_free=207635,psram_free=8386192
+SB_RUN,index=99,invoke_us=59667,internal_free=207635,psram_free=8386192
+SB_HEAP,stage=after_runs,internal_free=207635,internal_min_free=175604,internal_largest=112640,psram_free=8386192,psram_min_free=8386192
+SB_HEAP,stage=with_sim_pcm,internal_free=207635,internal_min_free=175604,internal_largest=112640,psram_free=8205964,psram_min_free=8205964
+SB_SIM,pcm_bytes=176400,capture_wait_us=3998098,feature_load_us=625,mfcc_measured=0,invoke_us=60296,postprocess_us=13,ui_wait_us=19059,predicted=0
+SB_DONE
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4037b265
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1548
+load:0x403c8700,len:0xdac
+load:0x403cb700,len:0x2f60
+entry 0x403c88f8
+I (24) boot: ESP-IDF 6.1.0 2nd stage bootloader
+I (24) boot: compile time Sep 18 2026 01:11:48
+I (24) boot: Multicore bootloader
+I (24) boot: chip revision: v0.2
+I (24) boot: efuse block revision: v1.4
+I (25) boot.esp32s3: Boot SPI Speed : 80MHz
+I (25) boot.esp32s3: SPI Mode       : DIO
+I (25) boot.esp32s3: SPI Flash Size : 8MB
+I (25) boot: Enabling RNG early entropy source...
+I (26) boot: Partition Table:
+I (26) boot: ## Label            Usage          Type ST Offset   Length
+I (26) boot:  0 nvs              WiFi data        01 02 00009000 00006000
+I (26) boot:  1 phy_init         RF data          01 01 0000f000 00001000
+I (27) boot:  2 factory          factory app      00 00 00010000 00100000
+I (27) boot: End of partition table
+I (27) esp_image: segment 0: paddr=00010020 vaddr=3c030020 size=152c0h ( 86720) map
+I (44) esp_image: segment 1: paddr=000252e8 vaddr=3fc90c00 size=0338ch ( 13196) load
+I (47) esp_image: segment 2: paddr=0002867c vaddr=40374000 size=0799ch ( 31132) load
+I (55) esp_image: segment 3: paddr=00030020 vaddr=42000020 size=22b40h (142144) map
+I (81) esp_image: segment 4: paddr=00052b68 vaddr=4037b99c size=051d0h ( 20944) load
+I (86) esp_image: segment 5: paddr=00057d40 vaddr=50000000 size=00024h (    36) load
+I (92) boot: Loaded app from partition at offset 0x10000
+I (92) boot: Disabling RNG early entropy source...
+I (93) octal_psram: vendor id    : 0x0d (AP)
+I (93) octal_psram: dev id       : 0x02 (generation 3)
+I (93) octal_psram: density      : 0x03 (64 Mbit)
+I (94) octal_psram: good-die     : 0x01 (Pass)
+I (94) octal_psram: Latency      : 0x01 (Fixed)
+I (94) octal_psram: VCC          : 0x01 (3V)
+I (94) octal_psram: SRF          : 0x01 (Fast Refresh)
+I (94) octal_psram: BurstType    : 0x01 (Hybrid Wrap)
+I (95) octal_psram: BurstLen     : 0x01 (32 Byte)
+I (95) octal_psram: Readlatency  : 0x02 (10 cycles@Fixed)
+I (95) octal_psram: DriveStrength: 0x00 (1/1)
+I (95) esp_psram: Found 8MB PSRAM device
+I (96) esp_psram: Speed: 40MHz
+I (96) cpu_start: Multicore app
+I (827) esp_psram: SPI SRAM memory test OK
+I (836) cpu_start: Pro cpu start user code
+I (836) cpu_start: cpu freq: 240000000 Hz
+I (836) app_init: Application information:
+I (836) app_init: Project name:     sezimband_int8_benchmark
+I (837) app_init: App version:      1
+I (837) app_init: Compile time:     Sep 18 2026 01:07:26
+I (837) app_init: ELF file SHA256:  65752c93c...
+I (837) app_init: ESP-IDF:          6.1.0
+I (837) efuse_init: Min chip rev:     v0.0
+I (837) efuse_init: Max chip rev:     v0.99
+I (837) efuse_init: Chip rev:         v0.2
+I (838) heap_init: Initializing. RAM available for dynamic allocation:
+I (838) heap_init: At 3FC94D60 len 000549B0 (338 KiB): RAM
+I (838) heap_init: At 3FCE9710 len 00005724 (21 KiB): RAM
+I (838) heap_init: At 3FCF0000 len 00008000 (32 KiB): DRAM
+I (838) heap_init: At 600FE000 len 00001FE8 (7 KiB): RTCRAM
+I (839) esp_psram: Adding pool of 8192K of PSRAM memory to heap allocator
+I (840) spi_flash: detected chip: gd
+I (840) spi_flash: flash io: dio
+I (840) sleep_gpio: Configure to isolate all GPIO pins in sleep state
+I (841) sleep_gpio: Enable automatic switching of GPIO sleep configuration
+I (842) main_task: Started on CPU0
+I (842) esp_psram: Reserving pool of 32K of internal memory for DMA/internal allocations
+I (842) main_task: Calling app_main()
+SB_META,model_sha256=6814b6fc59f123919e95e3d9118e5428bc6470af583e228db657ea568d4f14fc,model_bytes=12328,runs=100,cpu_mhz=240,board=XIAO_ESP32S3,mode=precomputed_MFCC_no_peripherals
+SB_HEAP,stage=before_model,internal_free=392135,internal_min_free=360104,internal_largest=294912,psram_free=8386192,psram_min_free=8386192
+SB_HEAP,stage=after_arena_alloc,internal_free=207635,internal_min_free=175604,internal_largest=112640,psram_free=8386192,psram_min_free=8386192
+SB_ALLOC,arena_location=internal,arena_capacity=184320,arena_used=66972,allocate_us=2225,input_bytes=6920,output_bytes=10,input_scale=3.90732908,input_zero=62,output_scale=0.00390625,output_zero=-128
+SB_HEAP,stage=after_allocate_tensors,internal_free=207635,internal_min_free=175604,internal_largest=112640,psram_free=8386192,psram_min_free=8386192
+SB_GOLDEN,index=0,file=204240-0-0-6.wav,predicted=0,max_int8_difference=0,pass=1
+SB_GOLDEN,index=1,file=202516-0-0-6.wav,predicted=0,max_int8_difference=0,pass=1
+SB_GOLDEN,index=2,file=146714-0-0-12.wav,predicted=0,max_int8_difference=0,pass=1
+SB_RUN,index=0,invoke_us=59474,internal_free=207635,psram_free=8386192
+SB_RUN,index=1,invoke_us=59629,internal_free=207635,psram_free=8386192
+SB_RUN,index=2,invoke_us=59636,internal_free=207635,psram_free=8386192
+SB_RUN,index=3,invoke_us=59657,internal_free=207635,psram_free=8386192
+SB_RUN,index=4,invoke_us=59657,internal_free=207635,psram_free=8386192
+SB_RUN,index=5,invoke_us=59638,internal_free=207635,psram_free=8386192
+SB_RUN,index=6,invoke_us=59676,internal_free=207635,psram_free=8386192
+SB_RUN,index=7,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=8,invoke_us=59650,internal_free=207635,psram_free=8386192
+SB_RUN,index=9,invoke_us=59671,internal_free=207635,psram_free=8386192
+SB_RUN,index=10,invoke_us=59648,internal_free=207635,psram_free=8386192
+SB_RUN,index=11,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=12,invoke_us=59677,internal_free=207635,psram_free=8386192
+SB_RUN,index=13,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=14,invoke_us=59650,internal_free=207635,psram_free=8386192
+SB_RUN,index=15,invoke_us=59668,internal_free=207635,psram_free=8386192
+SB_RUN,index=16,invoke_us=59648,internal_free=207635,psram_free=8386192
+SB_RUN,index=17,invoke_us=59643,internal_free=207635,psram_free=8386192
+SB_RUN,index=18,invoke_us=59678,internal_free=207635,psram_free=8386192
+SB_RUN,index=19,invoke_us=59638,internal_free=207635,psram_free=8386192
+SB_RUN,index=20,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=21,invoke_us=59670,internal_free=207635,psram_free=8386192
+SB_RUN,index=22,invoke_us=59647,internal_free=207635,psram_free=8386192
+SB_RUN,index=23,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=24,invoke_us=59678,internal_free=207635,psram_free=8386192
+SB_RUN,index=25,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=26,invoke_us=59650,internal_free=207635,psram_free=8386192
+SB_RUN,index=27,invoke_us=59669,internal_free=207635,psram_free=8386192
+SB_RUN,index=28,invoke_us=59647,internal_free=207635,psram_free=8386192
+SB_RUN,index=29,invoke_us=59643,internal_free=207635,psram_free=8386192
+SB_RUN,index=30,invoke_us=59678,internal_free=207635,psram_free=8386192
+SB_RUN,index=31,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=32,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=33,invoke_us=59670,internal_free=207635,psram_free=8386192
+SB_RUN,index=34,invoke_us=59648,internal_free=207635,psram_free=8386192
+SB_RUN,index=35,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=36,invoke_us=59678,internal_free=207635,psram_free=8386192
+SB_RUN,index=37,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=38,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=39,invoke_us=59669,internal_free=207635,psram_free=8386192
+SB_RUN,index=40,invoke_us=59648,internal_free=207635,psram_free=8386192
+SB_RUN,index=41,invoke_us=59644,internal_free=207635,psram_free=8386192
+SB_RUN,index=42,invoke_us=59677,internal_free=207635,psram_free=8386192
+SB_RUN,index=43,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=44,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=45,invoke_us=59671,internal_free=207635,psram_free=8386192
+SB_RUN,index=46,invoke_us=59648,internal_free=207635,psram_free=8386192
+SB_RUN,index=47,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=48,invoke_us=59678,internal_free=207635,psram_free=8386192
+SB_RUN,index=49,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=50,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=51,invoke_us=59669,internal_free=207635,psram_free=8386192
+SB_RUN,index=52,invoke_us=59647,internal_free=207635,psram_free=8386192
+SB_RUN,index=53,invoke_us=59643,internal_free=207635,psram_free=8386192
+SB_RUN,index=54,invoke_us=59678,internal_free=207635,psram_free=8386192
+SB_RUN,index=55,invoke_us=59638,internal_free=207635,psram_free=8386192
+SB_RUN,index=56,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=57,invoke_us=59671,internal_free=207635,psram_free=8386192
+SB_RUN,index=58,invoke_us=59648,internal_free=207635,psram_free=8386192
+SB_RUN,index=59,invoke_us=59642,internal_free=207635,psram_free=8386192
+SB_RUN,index=60,invoke_us=59678,internal_free=207635,psram_free=8386192
+SB_RUN,index=61,invoke_us=59640,internal_free=207635,psram_free=8386192
+SB_RUN,index=62,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=63,invoke_us=59668,internal_free=207635,psram_free=8386192
+SB_RUN,index=64,invoke_us=59648,internal_free=207635,psram_free=8386192
+SB_RUN,index=65,invoke_us=59643,internal_free=207635,psram_free=8386192
+SB_RUN,index=66,invoke_us=59679,internal_free=207635,psram_free=8386192
+SB_RUN,index=67,invoke_us=59639,internal_free=207635,psram_free=8386192
+SB_RUN,index=68,invoke_us=59644,internal_free=207635,psram_free=8386192
+SB_RUN,index=69,invoke_us=59665,internal_free=207635,psram_free=8386192
+SB_RUN,index=70,invoke_us=59642,internal_free=207635,psram_free=8386192
+SB_RUN,index=71,invoke_us=59635,internal_free=207635,psram_free=8386192
+SB_RUN,index=72,invoke_us=59672,internal_free=207635,psram_free=8386192
+SB_RUN,index=73,invoke_us=59635,internal_free=207635,psram_free=8386192
+SB_RUN,index=74,invoke_us=59652,internal_free=207635,psram_free=8386192
+E (10832) task_wdt: Task watchdog got triggered. The following tasks/users did not reset the watchdog in time:
+E (10832) task_wdt:  - IDLE0 (CPU 0)
+E (10832) task_wdt: Tasks currently running:
+E (10832) task_wdt: CPU 0: main
+E (10832) task_wdt: CPU 1: IDLE1
+E (10832) task_wdt: Print CPU 0 (current core) backtrace
+
+
+Backtrace: 0x420107DA:0x3FC91CA0 0x42010BEC:0x3FC91CC0 0x40376FC9:0x3FC91CF0 0x420162BE:0x3FC96F20 0x420153D6:0x3FC96F70 0x42006D52:0x3FC970A0 0x4200B8B6:0x3FC975F0 0x42003712:0x3FC97620 0x42002011:0x3FC97650 0x42011EE7:0x3FC97780 0x420208B6:0x3FC977B0
+
+SB_RUN,index=75,invoke_us=61736,internal_free=207635,psram_free=8386192
+SB_RUN,index=76,invoke_us=59696,internal_free=207635,psram_free=8386192
+SB_RUN,index=77,invoke_us=59643,internal_free=207635,psram_free=8386192
+SB_RUN,index=78,invoke_us=59694,internal_free=207635,psram_free=8386192
+SB_RUN,index=79,invoke_us=59638,internal_free=207635,psram_free=8386192
+SB_RUN,index=80,invoke_us=59650,internal_free=207635,psram_free=8386192
+SB_RUN,index=81,invoke_us=59670,internal_free=207635,psram_free=8386192
+SB_RUN,index=82,invoke_us=59647,internal_free=207635,psram_free=8386192
+SB_RUN,index=83,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=84,invoke_us=59677,internal_free=207635,psram_free=8386192
+SB_RUN,index=85,invoke_us=59641,internal_free=207635,psram_free=8386192
+SB_RUN,index=86,invoke_us=59650,internal_free=207635,psram_free=8386192
+SB_RUN,index=87,invoke_us=59669,internal_free=207635,psram_free=8386192
+SB_RUN,index=88,invoke_us=59647,internal_free=207635,psram_free=8386192
+SB_RUN,index=89,invoke_us=59643,internal_free=207635,psram_free=8386192
+SB_RUN,index=90,invoke_us=59678,internal_free=207635,psram_free=8386192
+SB_RUN,index=91,invoke_us=59638,internal_free=207635,psram_free=8386192
+SB_RUN,index=92,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=93,invoke_us=59672,internal_free=207635,psram_free=8386192
+SB_RUN,index=94,invoke_us=59649,internal_free=207635,psram_free=8386192
+SB_RUN,index=95,invoke_us=59642,internal_free=207635,psram_free=8386192
+SB_RUN,index=96,invoke_us=59679,internal_free=207635,psram_free=8386192
+SB_RUN,index=97,invoke_us=59642,internal_free=207635,psram_free=8386192
+SB_RUN,index=98,invoke_us=59651,internal_free=207635,psram_free=8386192
+SB_RUN,index=99,invoke_us=59670,internal_free=207635,psram_free=8386192
+SB_HEAP,stage=after_runs,internal_free=207635,internal_min_free=175604,internal_largest=112640,psram_free=8386192,psram_min_free=8386192
+SB_HEAP,stage=with_sim_pcm,internal_free=207635,internal_min_free=175604,internal_largest=112640,psram_free=8205964,psram_min_free=8205964
+SB_SIM,pcm_bytes=176400,capture_wait_us=3994711,feature_load_us=626,mfcc_measured=0,invoke_us=60296,postprocess_us=13,ui_wait_us=19062,predicted=0
+SB_DONE
+{
+  "status": "measured_on_connected_XIAO_ESP32S3",
+  "scope": "INT8 inference on precomputed MFCC; no microphone, MFCC, motor or display measured",
+  "model_sha256": "6814b6fc59f123919e95e3d9118e5428bc6470af583e228db657ea568d4f14fc",
+  "model_bytes": 12328,
+  "cpu_mhz": 240,
+  "arena_location": "internal",
+  "arena_capacity_bytes": 184320,
+  "arena_used_bytes": 66972,
+  "allocate_us": 2225,
+  "input_bytes": 6920,
+  "output_bytes": 10,
+  "golden_passes": 3,
+  "runs": 100,
+  "invoke_ms_min": 59.474,
+  "invoke_ms_median": 59.6495,
+  "invoke_ms_mean": 59.6734,
+  "invoke_ms_p95": 59.678,
+  "invoke_ms_max": 61.736,
+  "internal_free_before_bytes": 392135,
+  "internal_free_after_allocation_bytes": 207635,
+  "internal_min_free_after_runs_bytes": 175604,
+  "psram_free_before_bytes": 8386192,
+  "psram_free_after_allocation_bytes": 8386192,
+  "psram_free_with_pcm_bytes": 8205964,
+  "simulated_pcm_bytes": 176400,
+  "simulated_capture_wait_ms": 3994.711,
+  "simulated_feature_load_ms": 0.626,
+  "simulated_cycle_invoke_ms": 60.296,
+  "simulated_postprocess_ms": 0.013,
+  "simulated_ui_wait_ms": 19.062,
+  "mfcc_on_device_measured": false
+}

@@ -1,0 +1,13 @@
+esptool.py v4.5.1
+Serial port COM3
+Connecting...
+Detecting chip type... ESP32-S3
+Chip is ESP32-S3 (revision v0.2)
+Features: WiFi, BLE
+Crystal is 40MHz
+MAC: 28:84:85:b0:04:10
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.

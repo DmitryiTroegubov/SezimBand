@@ -1,0 +1,7 @@
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-mdisable-hardware-atomics
+"-specs=C:/Users/dimat/OneDrive/Desktop/sezimband_22/esp32_bench/.pio/build/seeed_xiao_esp32s3/specs/picolibc.specs"
+-fno-rtti

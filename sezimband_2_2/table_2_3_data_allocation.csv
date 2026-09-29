@@ -1,0 +1,4 @@
+split,folds,excerpt_files,original_recordings_fsID,model_examples,summed_excerpt_duration_s,purpose
+train,"1,2,3,4,5,6,7,8",7000,1048,7000,25171.21857910714,weight fitting
+test,10,837,124,837,3038.897742134354,final evaluation only
+validation,9,816,125,816,2974.7642917375283,checkpoint and architecture selection

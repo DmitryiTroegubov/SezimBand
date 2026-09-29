@@ -1,0 +1,10 @@
+split,folds,class,original_clips,derived_windows
+train,1-8,car_horn,364,767
+train,1-8,siren,764,2256
+train,1-8,non_target,5951,16374
+validation,9,car_horn,32,47
+validation,9,siren,82,240
+validation,9,non_target,702,1969
+test,10,car_horn,33,69
+test,10,siren,83,238
+test,10,non_target,721,1995

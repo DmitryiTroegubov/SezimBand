@@ -1,0 +1,60 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>model</th>
+      <th>parameters</th>
+      <th>raw_weight_bytes</th>
+      <th>keras_checkpoint_bytes</th>
+      <th>float32_tflite_bytes</th>
+      <th>estimated_conv_dense_MACs</th>
+      <th>best_epoch</th>
+      <th>epochs_run</th>
+      <th>validation_loss</th>
+      <th>validation_accuracy</th>
+      <th>validation_macro_f1</th>
+      <th>training_seconds</th>
+      <th>tflite_status</th>
+      <th>esp32_latency_ms</th>
+      <th>esp32_peak_ram_bytes</th>
+      <th>selected_by_validation_loss</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BaselineCNN</td>
+      <td>220490</td>
+      <td>881960</td>
+      <td>2695975</td>
+      <td>886560</td>
+      <td>95836224</td>
+      <td>3</td>
+      <td>11</td>
+      <td>1.1542</td>
+      <td>0.6140</td>
+      <td>0.6325</td>
+      <td>234.2989</td>
+      <td>converted</td>
+      <td>not measured</td>
+      <td>not measured</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <td>TinyCNN</td>
+      <td>6218</td>
+      <td>24872</td>
+      <td>114533</td>
+      <td>28700</td>
+      <td>3403472</td>
+      <td>11</td>
+      <td>15</td>
+      <td>0.8397</td>
+      <td>0.7157</td>
+      <td>0.7293</td>
+      <td>64.2584</td>
+      <td>converted</td>
+      <td>not measured</td>
+      <td>not measured</td>
+      <td>True</td>
+    </tr>
+  </tbody>
+</table>
